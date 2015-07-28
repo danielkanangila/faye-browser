@@ -1,0 +1,29 @@
+{
+  "name": "faye-browser",
+  "main": "faye-browser.js",
+  "version": "1.1.2",
+  "authors": [
+    "Jean-Francois Turcot <jf.turcot@gmail.com>"
+  ],
+  "description": "Simple pub/sub messaging for the web",
+  "keywords": [
+    "faye",
+    "publish-subscribe",
+    "pub/sub",
+    "bayeux",
+    "websockets",
+    "websocket",
+    "messaging",
+    "ruby",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "homepage": "http://faye.jcoglan.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
