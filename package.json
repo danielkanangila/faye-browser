@@ -1,0 +1,20 @@
+{
+  "name": "faye-browser",
+  "version": "1.0.0",
+  "description": "faye-browser-bower ==========",
+  "main": "faye-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkanangila/faye-browser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkanangila/faye-browser/issues"
+  },
+  "homepage": "https://github.com/danielkanangila/faye-browser#readme"
+}
